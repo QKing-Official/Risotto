@@ -1,0 +1,32 @@
+{
+  "site_name": "Example Documentation",
+  "site_title": "Example Documentation Site",
+  "description": "A comprehensive documentation site built with Risotto for example.com.",
+  "favicon": "https://example.com/images/favicon.png",
+  "logo": {
+    "light": "https://example.com/images/logo-light.png",
+    "dark": "https://example.com/images/logo-dark.png"
+  },
+  "theme_icons": {
+    "light": "https://example.com/images/icon-light.png",
+    "dark": "https://example.com/images/icon-dark.png"
+  },
+  "colors": {
+    "light": {
+      "primary": "#2563eb",
+      "secondary": "#64748b",
+      "background": "#ffffff",
+      "text": "#1e293b",
+      "sidebar": "#f8fafc"
+    },
+    "dark": {
+      "primary": "#3b82f6",
+      "secondary": "#94a3b8",
+      "background": "#0f172a",
+      "text": "#e2e8f0",
+      "sidebar": "#1e293b"
+    }
+  },
+  "output_dir": "site",
+  "home_page": "index.md"
+}
