@@ -106,7 +106,7 @@ Risotto supports:
 
 ---
 
-## 📦 Output
+## Output
 
 After running the build, open:
 
