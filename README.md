@@ -44,17 +44,6 @@ You can edit `config.risotto` to customize:
 - Output directory  
 - Home page name  
 
-Example snippet:
-```json
-{
-    "site_name": "My Docs",
-    "site_title": "My Documentation",
-    "description": "Example project documentation",
-    "output_dir": "site",
-    "home_page": "index.md"
-}
-```
-
 ---
 
 ## Writing Documentation
